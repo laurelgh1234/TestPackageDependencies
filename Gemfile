@@ -6,3 +6,4 @@ gemspec
 gem 'rubysl', '~> 2.0', platforms: :rbx
 gem 'minitest', platforms: :rbx
 gem 'html2haml'
+gem 'geocoder', '1.6.0'
