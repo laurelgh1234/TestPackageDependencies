@@ -17,7 +17,7 @@ django-pandas==0.4.5
 django-redis==4.10.0
 django-storages==1.6.6
 django-webpack-loader==0.5.0
-Django==1.11.7
+Django==1.11.29
 git+git://github.com/howespt/elasticsearch-dsl-py.git@3d854a8533b547ca840f5fd30431ed1f90a84d70
 inflection==0.3.1
 json-rpc==1.10.8
